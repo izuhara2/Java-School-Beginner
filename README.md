@@ -1,1 +1,1 @@
-# Java-School-Beginner
+# TechPit_Javaスクール_総合問題
